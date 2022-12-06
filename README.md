@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Cyrus Smith.
 - 👀 I have 10+ years of programming experience.
-  1.Web development(Angular, React, Vue, Express, Laravel, ...)
-  2.Application(Process, Windows control, Cryptography ...)
+  1.Web development(Angular, React, Express, Laravel, ...)
+  2.Application(Windows Desktop, Cryptography ...)
   3.AI(NLP, BERT, RuleBased, NN, Fuzzy, Rough, ...)
 
-  - frontend: React/Redux, Angular
+  - frontend: React, Angular, SVG
   - backend: Node.js, Laravel
   - Database: MongoDB, MySQL
   - Language:Assembly, VC++, Go, Java, Javascript, Php, Sql ...
