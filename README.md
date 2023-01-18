@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Cyrus Smith.
+# 👋 Hi, I’m Cyrus Smith.
 
-*** 👀 I have 10+ years of programming experience. ***
+ 👀 I have 10+ years of programming experience.
 
-  - analyser-easy-example shows my algorithm optimization & algorithm logic.
-  
-  - Front-End
+  - **[analyser-easy-example](https://github.com/ptts-easy/analyser-easy-example)**  shows my algorithm optimization & algorithm logic.
+    - Front-End
     react-easy-example, angular-easy-example
   - Back-End
     nodejs-easy-example, golang-easy-example, laravel-easy-example
