@@ -27,6 +27,7 @@
     - Java
     - Javascript
     - Php
+    - Python
     - Sql
   
 - 📫 If you need to contact me, you can do it at the email faco0909@outlook.com
