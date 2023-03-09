@@ -11,6 +11,7 @@
     - [nodejs-easy-example](https://github.com/ptts-easy/nodejs-easy-example)
     - [golang-easy-example](https://github.com/ptts-easy/golang-easy-example)
     - [php-easy-example](https://github.com/ptts-easy/php-easy-example)
+    - [python-easy-example](https://github.com/ptts-easy/python-easy-example)
   - **AI**
     - [text-classification-analyser](https://github.com/ptts-easy/text-classification-analyser)
   - **Data Science**
@@ -30,4 +31,4 @@
     - Python
     - Sql
   
-- 📫 If you need to contact me, you can do it at the email faco0909@outlook.com
+- 📫 If you need to contact me, you can do it at the email ptts-easy@outlook.com
